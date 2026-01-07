@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando um Modelo 3D com IA para Impressão 3D
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto desenvolvido no Lab **“Natural ou Fake Natty? Como Vencer na Era das IAs Generativas”** da DIO, com o objetivo de utilizar IA generativa para criar um modelo 3D personalizado do cachorro da minha namorada e transformá-lo em um chaveiro impresso em 3D.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **TRIPO IA** – Geração do modelo 3D a partir de referência visual
+- **Software de fatiamento (ex: Cura / PrusaSlicer)** – Preparação do modelo para impressão
+- **Impressora 3D**
+- **Filamento PLA**
+- **Git & GitHub**
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A IA **TRIPO** foi utilizada para gerar um modelo 3D do cachorro a partir de imagens de referência. Após a geração, o modelo foi ajustado para o formato de chaveiro, incluindo escala, espessura e local para o furo da argola. Em seguida, o arquivo foi fatiado e preparado para impressão 3D.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um **chaveiro personalizado impresso em 3D**, representando fielmente o cachorro, unindo tecnologia, criatividade e um toque pessoal.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Este projeto mostrou como IAs generativas podem transformar ideias simples e afetivas em objetos físicos, reduzindo o tempo entre a concepção e a materialização, ao mesmo tempo em que exigem curadoria humana para garantir um resultado realmente “natty”.
+
 ```
 
 ### Exemplos e Insigths
